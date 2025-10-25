@@ -1,48 +1,37 @@
 {
-  "items": [
-    {
-      "name": "Offroad Bus Simulator",
-      "bundle_id": "com.eminent.offroadbus",
-      "status": true,
-      "thumbnail_url": "https://example.com/offroadbus.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.offroadbus"
-    },
-    {
-      "name": "City Car Driving",
-      "bundle_id": "com.eminent.citycardriving",
-      "status": false,
-      "thumbnail_url": "https://example.com/citycar.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.citycardriving"
-    },
-    {
-      "name": "Truck Hill Climb",
-      "bundle_id": "com.eminent.truckhillclimb",
-      "status": true,
-      "thumbnail_url": "https://example.com/truckhill.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.truckhillclimb"
-    }
-  ],
-   "items2": [
-    {
-      "name": "Bus Parking 3D",
-      "bundle_id": "com.eminent.busparking",
-      "status": true,
-      "thumbnail_url": "https://example.com/busparking.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.busparking"
-    },
-    {
-      "name": "Mountain Truck Simulator",
-      "bundle_id": "com.eminent.mountaintruck",
-      "status": true,
-      "thumbnail_url": "https://example.com/mountaintruck.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.mountaintruck"
-    },
-    {
-      "name": "Desert Rally Racing",
-      "bundle_id": "com.eminent.desertrally",
-      "status": false,
-      "thumbnail_url": "https://example.com/desertrally.jpg",
-      "game_link": "https://play.google.com/store/apps/details?id=com.eminent.desertrally"
-    }
-  ]
+  "data": {
+    "items": [
+      {
+        "name": "Offroad Bus Simulator",
+        "bundle_id": "com.eminent.offroadbus",
+        "status": true,
+        "thumbnail_url": "https://example.com/offroadbus.jpg",
+        "game_link": "https://play.google.com/store/apps/details?id=com.eminent.offroadbus"
+      },
+      {
+        "name": "City Car Driving",
+        "bundle_id": "com.eminent.citycardriving",
+        "status": false,
+        "thumbnail_url": "https://example.com/citycar.jpg",
+        "game_link": "https://play.google.com/store/apps/details?id=com.eminent.citycardriving"
+      }
+    ],
+
+    "items2": [
+      {
+        "name": "Bus Parking 3D",
+        "bundle_id": "com.eminent.busparking",
+        "status": true,
+        "thumbnail_url": "https://example.com/busparking.jpg",
+        "game_link": "https://play.google.com/store/apps/details?id=com.eminent.busparking"
+      },
+      {
+        "name": "Truck Hill Climb",
+        "bundle_id": "com.eminent.truckhillclimb",
+        "status": true,
+        "thumbnail_url": "https://example.com/truckhill.jpg",
+        "game_link": "https://play.google.com/store/apps/details?id=com.eminent.truckhillclimb"
+      }
+    ]
+  }
 }
